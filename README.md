@@ -5,7 +5,7 @@ PHP data base configuration:
 file to connect the data base:  db.php
 
 Database name:  to_do_list </br>
-Table: task
+Table name: task
 
 
 Table configuration:
